@@ -27,7 +27,7 @@ const PICTURE_SRC_LIST = [
       "Ullamco laboris minim consequat et deserunt qui incididunt exercitation.",
   },
   {
-    path: "./image/t.JPG",
+    path: "./image/t.jpg",
     title: "Мөнхбат",
     subTitle:
       "Minim nulla quis ut et et sunt adipisicing consectetur mollit non qui magna.",
