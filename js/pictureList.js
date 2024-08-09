@@ -22,7 +22,7 @@ const PICTURE_SRC_LIST = [
   },
   {
     path: "./image/r.jpg",
-    title: "Хэнтий Аймаг Хөх Нуур",
+    title: "Хэнтий Аймаг Хар Зүрхний Хөх Нуур",
     subTitle:
       "Ullamco laboris minim consequat et deserunt qui incididunt exercitation.",
   },
@@ -36,7 +36,7 @@ const PICTURE_SRC_LIST = [
     path: "./image/md.jpg",
     title: "Учралтхүү",
     subTitle:
-      "Dolor velit nisi proident ipsum ad laborum velit laboris amet adipisicing est reprehenderit sint minim.",
+      "Баян айлийн ганц хүү эмэгтэй хүн мөнгө хоёрыг нойлын цаас шиг хэрэглэдэг.",
   },
   {
     path: "./image/w.jpg",
